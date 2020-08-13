@@ -22,6 +22,7 @@ header .contenedor_logo_menu {
 
 header .contenedor_logo_menu .logo h1 {
   color: white;
+  letter-spacing: .5rem;
 }
 
 header .contenedor_logo_menu .logo a {
